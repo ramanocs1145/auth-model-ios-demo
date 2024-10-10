@@ -1,0 +1,15 @@
+{
+  "originHash" : "99b85ca0e5266e108bba848afe2ad94b2b638ab51c7ebecb395cb6a11d14431f",
+  "pins" : [
+    {
+      "identity" : "authpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git.oclocksoftware.info/Ramanathan/authpackage.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1c98336f997a80ae72e672aec0db4faa0cd817c2"
+      }
+    }
+  ],
+  "version" : 3
+}
